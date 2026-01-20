@@ -25,3 +25,6 @@ In this lesson, you will learn how to synchronize your local work with a remote 
 * Your code is visible on your GitHub profile.
 * You successfully "pulled" a change from the website down to your computer.
 * Your local repository is in sync with your remote repository.
+
+
+  Edited on Github
